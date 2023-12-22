@@ -1,0 +1,7 @@
+C:\Stevens-Automation\Artikelverwaltung\bin\Debug\Artikelverwaltung.exe.config
+C:\Stevens-Automation\Artikelverwaltung\bin\Debug\Artikelverwaltung.exe
+C:\Stevens-Automation\Artikelverwaltung\bin\Debug\Artikelverwaltung.pdb
+C:\Stevens-Automation\Artikelverwaltung\obj\Debug\Artikelverwaltung.csproj.AssemblyReference.cache
+C:\Stevens-Automation\Artikelverwaltung\obj\Debug\Artikelverwaltung.csproj.CoreCompileInputs.cache
+C:\Stevens-Automation\Artikelverwaltung\obj\Debug\Artikelverwaltung.exe
+C:\Stevens-Automation\Artikelverwaltung\obj\Debug\Artikelverwaltung.pdb
