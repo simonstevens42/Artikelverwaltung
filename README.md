@@ -1,4 +1,4 @@
-# Projektname
+# Artikelverwaltung
 
 Das Projekt ist eine .Net Konsolenanwendung, welche Artikel in der Konsole ausgibt.
 
