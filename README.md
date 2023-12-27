@@ -2,35 +2,6 @@
 
 Das Projekt ist eine .Net Konsolenanwendung, welche Artikel in der Konsole ausgibt.
 
-## Klassen
-
-### Artikel
-
-Die Klasse Artkel befindet sich in der Datei 'Artikel.cs'
-
-```C#
-    internal class Artikel
-    {
-        // Attribute
-        public string Name { get; set; }
-        public double Price { get; set; }
-
-        // Konstruktor
-        public Artikel(string name, double price)
-        {
-            this.Name = name;
-            this.Price = price;
-        }
-
-        // toString Methode überseteuern
-        public override string ToString()
-        {
-            return $"Name: {Name} Price: {Price}";
-        }
-    }
-```
-
-
 ## Program.cs
 
 * Im Main Teil wird zuerst ein Tuple / Dictonary erstell mit Produkten.
@@ -65,4 +36,32 @@ Die Klasse Artkel befindet sich in der Datei 'Artikel.cs'
                 Console.WriteLine(product.ToString());
             }
         }
+```
+
+## Klassen
+
+### Artikel
+
+Die Klasse Artkel befindet sich in der Datei 'Artikel.cs'
+
+```C#
+    internal class Artikel
+    {
+        // Attribute
+        public string Name { get; set; }
+        public double Price { get; set; }
+
+        // Konstruktor
+        public Artikel(string name, double price)
+        {
+            this.Name = name;
+            this.Price = price;
+        }
+
+        // toString Methode überseteuern
+        public override string ToString()
+        {
+            return $"Name: {Name} Price: {Price}";
+        }
+    }
 ```
