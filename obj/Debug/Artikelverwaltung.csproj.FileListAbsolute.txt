@@ -5,3 +5,11 @@ C:\Stevens-Automation\Artikelverwaltung\obj\Debug\Artikelverwaltung.csproj.Assem
 C:\Stevens-Automation\Artikelverwaltung\obj\Debug\Artikelverwaltung.csproj.CoreCompileInputs.cache
 C:\Stevens-Automation\Artikelverwaltung\obj\Debug\Artikelverwaltung.exe
 C:\Stevens-Automation\Artikelverwaltung\obj\Debug\Artikelverwaltung.pdb
+D:\DEV\Artikelverwaltung\bin\Debug\Artikelverwaltung.exe.config
+D:\DEV\Artikelverwaltung\bin\Debug\Artikelverwaltung.exe
+D:\DEV\Artikelverwaltung\bin\Debug\Artikelverwaltung.pdb
+D:\DEV\Artikelverwaltung\obj\Debug\Artikelverwaltung.csproj.AssemblyReference.cache
+D:\DEV\Artikelverwaltung\obj\Debug\Artikelverwaltung.csproj.SuggestedBindingRedirects.cache
+D:\DEV\Artikelverwaltung\obj\Debug\Artikelverwaltung.csproj.CoreCompileInputs.cache
+D:\DEV\Artikelverwaltung\obj\Debug\Artikelverwaltung.exe
+D:\DEV\Artikelverwaltung\obj\Debug\Artikelverwaltung.pdb
